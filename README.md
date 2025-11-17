@@ -4,7 +4,8 @@
 <img width="848" height="576" alt="Фактическая архитектура drawio" src="https://github.com/user-attachments/assets/9f6e1853-7a43-420c-8ba2-87ea83dfc8ee" />  
   
 ### Планируемая архитектура:
-<img width="1721" height="546" alt="Планируемая структура drawio" src="https://github.com/user-attachments/assets/c8359ca4-b4cb-4a29-acb8-68ba3098d7f1" />  
+<img width="848" height="531" alt="Планируемая архитектура drawio" src="https://github.com/user-attachments/assets/3a90b5af-4c39-46e4-ba33-e74dab846db9" />  
+
 После разметки json файлы все еще отправляются обратно на MinIO сервер, однако приложение их не вытягивает  
   
 ## Тест нагрузки на сервер:  
