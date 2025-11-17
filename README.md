@@ -1,4 +1,4 @@
-# MinIo-LS  
+# MinIo-LS  архитектура и тест нагрузки
 ## Архитектура проекта:
 ### Фактическая архитектура:
 <img width="1001" height="576" alt="Фактическая архитектура drawio" src="https://github.com/user-attachments/assets/cb6392f5-a64c-47df-8fcb-3ff2589717f0" />  
